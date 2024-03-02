@@ -1,0 +1,13 @@
+prefix=D:/My_data/Uni/2nd_Semester/ML_Algorithms/SVM_Practical_Session/Project/Pulsar_dataset_Classification_using_SVM/venv/Library
+exec_prefix=D:/My_data/Uni/2nd_Semester/ML_Algorithms/SVM_Practical_Session/Project/Pulsar_dataset_Classification_using_SVM/venv/Library
+libdir=D:/My_data/Uni/2nd_Semester/ML_Algorithms/SVM_Practical_Session/Project/Pulsar_dataset_Classification_using_SVM/venv/Library/lib
+sharedlibdir=D:/My_data/Uni/2nd_Semester/ML_Algorithms/SVM_Practical_Session/Project/Pulsar_dataset_Classification_using_SVM/venv/Library/lib
+includedir=D:/My_data/Uni/2nd_Semester/ML_Algorithms/SVM_Practical_Session/Project/Pulsar_dataset_Classification_using_SVM/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
