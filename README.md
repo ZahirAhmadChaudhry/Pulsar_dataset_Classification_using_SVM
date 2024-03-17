@@ -69,4 +69,4 @@ If you'd like to contribute, please fork the repository and create a pull reques
 
 ## License
 
-Open-sourced software licensed under the [MIT license](LICENSE).
+Open-sourced software licensed under the [MIT license](https://github.com/ZahirAhmadChaudhry/Pulsar_dataset_Classification_using_SVM/blob/main/LICENSE).
