@@ -1,8 +1,8 @@
 pandas
-numpy
-seaborn
 matplotlib
 seaborn
 scipy
+numpy
+imbalanced-learn
 scikit-learn
-#-e .
+joblib
